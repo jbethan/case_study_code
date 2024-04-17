@@ -1,0 +1,20 @@
+﻿Feature,Importance
+temp,0.540984627
+cloudcover,0.28351633
+temp windgust,0.254858803
+temp visibility,0.206439363
+snowdepth cloudcover,0.186270902
+snowdepth,0.138709544
+temp cloudcover,0.138081111
+temp uvindex,0.123051391
+visibility,0.102707829
+snowdepth uvindex,0.072030456
+snowdepth windgust,0.047370426
+temp moonphase,0.01434209
+temp snowdepth,-0.054222993
+snowdepth visibility,-0.102146167
+windgust cloudcover,-0.201260162
+visibility uvindex,-0.229908187
+humidity cloudcover,-0.342634745
+humidity snowdepth,-0.346901768
+temp humidity,-0.697658545

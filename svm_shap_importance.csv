@@ -1,0 +1,53 @@
+Feature,Importance
+Holiday_New Year's Day,0.12024494034180781
+humidity snowdepth,0.08353904170663491
+humidity cloudcover,0.06634012595357215
+temp humidity,0.05975461907515927
+cloudcover,0.05445357728728079
+temp,0.052673663902324475
+humidity^2,0.043815040313411276
+snowdepth cloudcover,0.04062166780096781
+snowdepth,0.034613664881301937
+temp windgust,0.03229373237560397
+visibility uvindex,0.03061141606002423
+Holiday_0,0.028848493210749122
+windgust cloudcover,0.025237729059340238
+snowdepth visibility,0.021474874643173898
+visibility,0.020825700726203822
+Holiday_Valentine's Day,0.020783549118609166
+temp^2,0.01933217366003337
+temp snowdepth,0.017377201854499688
+temp visibility,0.016549168507958973
+snowdepth uvindex,0.013356286496731304
+snowdepth windgust,0.012040876125206447
+preciptype_0,0.010429529177107218
+temp uvindex,0.009476997651316021
+"preciptype_rain,snow",0.009151875962775552
+Holiday_Presidents' Day,0.00844070676781218
+temp cloudcover,0.008321272993243261
+Holiday_Halloween,0.0077310526427936095
+preciptype_snow,0.0069254389381874495
+visibility^2,0.0065945372955694085
+cloudcover^2,0.006180279183736578
+Holiday_St. Patrick's Day,0.005960383528348103
+Holiday_Veterans Day,0.005136687496804313
+Holiday_Thanksgiving Day,0.003948824475332805
+Holiday_Labor Day,0.0037216159719418024
+preciptype_rain,0.0023779880776498598
+Holiday_Martin Luther King Jr. Day,0.0021594145806846164
+Holiday_Christmas Day,0.0019508146350457251
+Holiday_Independence Day,0.0017714996000189015
+Holiday_New Year's Eve,0.0014209061480374902
+IsFullMoon_0,0.0009231945334057869
+IsFullMoon_True,0.0009231945334033916
+"preciptype_rain,snow,ice",0.0007903058968160316
+"preciptype_rain,freezingrain",0.0004695379989164353
+temp moonphase,0.00033526239618140524
+Holiday_Columbus Day,0.0003009846574090576
+"preciptype_rain,freezingrain,snow",0.0002398033985481886
+"preciptype_snow,ice",0.00018351492590119268
+"preciptype_rain,freezingrain,snow,ice",0.00014641950218026965
+Holiday_Memorial Day,1.825077543969951e-05
+Holiday_Christmas Eve,0.0
+preciptype_freezingrain,0.0
+"preciptype_rain,ice",0.0

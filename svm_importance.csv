@@ -1,0 +1,53 @@
+Feature,Importance
+Holiday_New Year's Day,7.033002028480947
+"preciptype_rain,snow,ice",1.6335622887187373
+Holiday_Independence Day,0.8137088162753487
+"preciptype_rain,freezingrain,snow,ice",0.6052982220132348
+temp,0.5409846271609382
+"preciptype_rain,freezingrain",0.4852675218801359
+Holiday_New Year's Eve,0.4518481550759219
+cloudcover,0.28351632984289976
+humidity^2,0.2757937914066133
+temp windgust,0.25485880349279455
+temp visibility,0.20643936342669633
+snowdepth cloudcover,0.18627090218245712
+snowdepth,0.13870954355670762
+temp cloudcover,0.1380811108936797
+temp uvindex,0.1230513911353377
+IsFullMoon_True,0.11107352156838246
+visibility,0.10270782936350997
+snowdepth uvindex,0.07203045638662786
+snowdepth windgust,0.047370425670482774
+visibility^2,0.0341978146870332
+temp moonphase,0.014342090424349863
+Holiday_Christmas Eve,0.0
+preciptype_freezingrain,0.0
+"preciptype_rain,ice",0.0
+Holiday_Memorial Day,-0.010778386523959682
+cloudcover^2,-0.03539530244222888
+temp snowdepth,-0.05422299328958502
+snowdepth visibility,-0.10214616684939415
+IsFullMoon_0,-0.11107352156867023
+Holiday_Columbus Day,-0.11311550670264037
+preciptype_0,-0.15601271391721383
+windgust cloudcover,-0.20126016235209576
+preciptype_snow,-0.21735320809646907
+visibility uvindex,-0.22990818684440306
+temp^2,-0.24888918198258025
+Holiday_Martin Luther King Jr. Day,-0.2599598100334946
+preciptype_rain,-0.28998828061960324
+"preciptype_rain,snow",-0.31077587670538964
+humidity cloudcover,-0.342634744981071
+humidity snowdepth,-0.3469017676238231
+Holiday_0,-0.46695250952716094
+Holiday_Thanksgiving Day,-0.5563885610438248
+Holiday_Christmas Day,-0.6720556417732523
+temp humidity,-0.6976585446258099
+Holiday_Veterans Day,-0.7492966165063173
+"preciptype_snow,ice",-0.7586507036755306
+Holiday_St. Patrick's Day,-0.7862228942626377
+"preciptype_rain,freezingrain,snow",-0.9913472495982117
+Holiday_Presidents' Day,-1.016129347062771
+Holiday_Halloween,-1.0534005150068815
+Holiday_Valentine's Day,-1.2156082633889405
+Holiday_Labor Day,-1.3986509480006737
